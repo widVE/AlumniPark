@@ -1,0 +1,5 @@
+#ignore daes
+*.dae
+
+#ignore skps
+.skp
